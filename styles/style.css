@@ -1,0 +1,12 @@
+.posts{
+   margin-top: 40px;
+   margin-left: 20px;
+}
+.logo {
+   display: flex; /* Делаем контейнер гибким */
+   justify-content: center; /* Центрируем по горизонтали */
+   align-items: center; /* Центрируем по вертикали */
+}
+.log{
+      width: 22rem;
+}
